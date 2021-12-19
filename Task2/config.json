@@ -1,0 +1,23 @@
+{
+	"rules": [{
+			"language": "go",
+			"stratergy": "extension",
+			"value": ".go"
+		},
+		{
+			"language": "json",
+			"stratergy": "extension",
+			"value": ".json"
+		},
+		{
+			"language": "makefile",
+			"stratergy": "file_name",
+			"value": "Makefile"
+		},
+		{
+			"language": "Dockerfile",
+			"stratergy": "file_name",
+			"value": "Dockerfile"
+		}
+	]
+}
