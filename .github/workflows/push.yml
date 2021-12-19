@@ -51,3 +51,4 @@ jobs:
             ${{env.LASTEST_TAG}}
           build-args: |
             ${{steps.version_step.outputs.version}}
+          file: Task2/Dockerfile
