@@ -31,7 +31,7 @@ type Config struct {
 }
 
 const (
-	CONFIG_FILE_PATH = "/go/src/github.com/CodeQualityProject/Task2/config.json"
+	CONFIG_FILE_PATH = "/go/src/github.com/CodeQualityProject/config.json"
 	ROOT_FOLDER      = "/app"
 	OUTPUT_FILE_PATH = "/app/findlanguageoutput"
 )
