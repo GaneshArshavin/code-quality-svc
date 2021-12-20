@@ -75,7 +75,7 @@ The output is usually like
 ```
 The terms are self explanatory
 
-##CI-CD Pipeline 
+## CI-CD Pipeline 
 The CCID pipleline has two triggers , commits and tags . Unit tests ( a few sample tests has been added ) has been configured to for every commit. Tags trigger the deployment .
 Unit tests are run recursively and is pre-requisite for builds to be pushed to docker hub 
 
